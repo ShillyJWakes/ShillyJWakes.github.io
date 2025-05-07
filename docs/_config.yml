@@ -30,7 +30,7 @@ bluesky_username: shillywakes.bsky.social
 github_username:  ShillyJWakes
 
 # Build settings
-theme: cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 

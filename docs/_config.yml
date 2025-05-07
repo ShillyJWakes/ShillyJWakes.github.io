@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: This May be Out of Scope
 email: shillyjsblog.lantern295@passmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Barely Coherent. STEM Librarian. Perpetually bad takes.
-  I like scientometrics and scholarly communications, but that doesn't mean I understand it.
-  Hedging because PKD taught me that I can't be certain of anything.
+  Digressions from a STEM librarian who really ought to be doing something else with their time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shillyjwakes.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 bluesky_username: shillywakes.bsky.social
